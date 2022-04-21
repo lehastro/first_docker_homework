@@ -1,4 +1,5 @@
 This is the contents of the frontend folder
+
 Created Dockerfile and ran the command from this folder : 
 
 docker build -t frontend .
